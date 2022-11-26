@@ -4,7 +4,6 @@ Hi 👋 My name is Countyy
 I started programming in end of 2021 and I'm currently learning Web Development. I am basically Front-End Developer, but I want to learn somethings about Back-End in the future. I'm a starting programmer, so any help you can give me will be great. ❤
 
 * 🧠  I'm learning HTML, CSS and JS
-* ⚡  I'm working in a project for my School right now.
 
 ### Skills
 
